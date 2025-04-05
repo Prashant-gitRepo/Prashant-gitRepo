@@ -12,7 +12,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+  * AWS
+  * Linux
+  * CCNA
+  * Git
+  * GitHub
+  * Docker
 ---
 
 ### 🌟 Featured Projects
@@ -25,7 +30,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/prashant-hemane-a53b43135)  
-📧 hemaneprashant@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-hemane-a53b43135)  
+📧 hemaneprashant@gmail.com
 
 ---
