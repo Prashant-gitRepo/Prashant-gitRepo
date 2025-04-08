@@ -23,8 +23,10 @@
 ### 🌟 Featured Projects
 
 - 📦 **[S3 Static Website Hosting](https://d1q32t5ryxec3j.cloudfront.net)**  
-  Hosted a static website on S3 with GitHub Actions CI/CD pipeline.  
-  _Tools: AWS, S3, Cloudfront
+  Hosted a live html resume using S3 bucket and Cloudfront.
+  
+  Tools: AWS, S3, Cloudfront
+  
 
 ---
 
