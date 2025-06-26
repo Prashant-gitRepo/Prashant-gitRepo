@@ -20,7 +20,7 @@
   * Docker
 ---
 
-### Portfolio - https://prashant-gitrepo.github.io/portfolio-website/
+### Portfolio - https://prashant-gitrepo.github.io/Portfolio-website/
 
 ---
 ### 🌟 Featured Projects
