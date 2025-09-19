@@ -25,7 +25,7 @@
 ---
 ### 🌟 Featured Projects
 
-- 📦 **[S3 Static Website Hosting](https://d1q32t5ryxec3j.cloudfront.net)**  
+- 📦 **[S3 Static Website Hosting]**  
   Hosted a live html resume using S3 bucket and Cloudfront.
   
   Tools: AWS, S3, Cloudfront
